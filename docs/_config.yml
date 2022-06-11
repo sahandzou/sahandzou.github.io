@@ -22,7 +22,8 @@ title: the goal is to create value
 email: sahandzoufan79@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
 
-        i just write my thoughts here
+        i just write my thoughts here  
+
         sahand zoufan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
